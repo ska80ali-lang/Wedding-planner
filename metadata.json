@@ -1,0 +1,6 @@
+{
+  "name": "The Great Indian Wedding Planner",
+  "description": "A premium, mobile-first landing page for The Great Indian Wedding Planner 46-page PDF guide and planning system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
